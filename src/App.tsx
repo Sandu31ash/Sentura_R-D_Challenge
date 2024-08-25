@@ -9,8 +9,8 @@ function App() {
   // Mock data fetch for demonstration purposes
   useEffect(() => {
     setUsers([
-      { id: 1, name: 'Ash J', email: 'ash123@example.com' },
-      { id: 2, name: '', email: 'jane@example.com' },
+      { id: 1, name: 'Ash J', email: 'ash123@gmail.com' },
+      { id: 2, name: 'Abc S', email: 'abcs1@gmail.com' },
     ]);
   }, []);
 
